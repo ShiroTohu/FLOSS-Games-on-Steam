@@ -24,7 +24,6 @@ From the creators of Amnesia: The Dark Descent and Dear Esther comes a new first
 </p>
 
 
-
 ## Amnesia: The Dark Descent
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
@@ -35,6 +34,13 @@ From the creators of Amnesia: The Dark Descent and Dear Esther comes a new first
 [Game on Steam](https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent) | [Source Code](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) | [GNU General Public License v3.0](https://github.com/FrictionalGames/AmnesiaTheDarkDescent/blob/master/LICENSE) | [Website](http://www.amnesiagame.com/#main)
 
 Amnesia: The Dark Descent, a first person survival horror. A game about immersion, discovery and living through a nightmare. An experience that will chill you to the core.
+
+<!-- Images -->
+<p float="left">
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/57300/ss_b27b47bb43ebd1ab3b26e3d74cf2db088e928a6d.600x338.jpg?t=1685699016" width="32.9%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/57300/ss_4efbef5937d9e1c74434f7a447dba6bc682e32cc.600x338.jpg?t=1685699016" width="32.9%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/57300/ss_f05aa49adbc3fbd7f96ab079b4649259a4fb443e.600x338.jpg?t=1685699016" width="32.9%" />
+</p>
 
 
 ## Astral Shipwright
@@ -558,6 +564,13 @@ When you have a top-of-the-line hacking deck armed with a 56.6k modem and a stag
 
 Quaver is a community-driven and open-source competitive rhythm game with two game modes and online leaderboards. Create your own maps or challenge the world in online multiplayer matches.
 
+
+<!-- Images -->
+<p float="left">
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/980610/ss_b334e108a08c326f41eb0ceef29be0f2170c6236.600x338.jpg?t=1661002225" width="32.9%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/980610/ss_c94fe4e39b8de1763de5231c07249833a0928526.600x338.jpg?t=1661002225" width="32.9%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/980610/ss_2db721b0cd16d646217878bb0a1c3071632fabdd.600x338.jpg?t=1661002225" width="32.9%" />
+</p>
 
 ## Red Eclipse 2
 <!-- Supported Operating Systems -->
