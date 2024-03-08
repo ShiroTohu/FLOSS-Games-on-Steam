@@ -89,7 +89,7 @@ The Battle for Wesnoth is an open source, turn-based strategy game with a high f
 
 Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG. 
 
-
+<!-- Images -->
 <p float="left">
   <img src="https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_8595dede43d745341ee3821c3a58d6ef3bcb9797.600x338.jpg?t=1675874284" width="32.9%" />
   <img src="https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_4099845aff88c008271a099f55eacd868dad0461.600x338.jpg?t=1675874284" width="32.9%" /> 
@@ -195,6 +195,13 @@ Crystal Picnic is a lighthearted and colorful tribute to the classic era of acti
 [Game on Steam](https://store.steampowered.com/app/412220/DDraceNetwork/) | [Tutorials & Help](https://wiki.ddnet.tw/wiki/Main_Page) | [Source Code](https://github.com/ddnet) | [Website](https://ddnet.tw/) | [Forums](https://forum.ddnet.tw/)
 
 DDraceNetwork is a cooperative racing mod of Teeworlds. What started as a simple mod is now a big cooperative platformer experience! Choose from hundreds of available maps, race your way to the finish line and help your friends. Collaborate and compete with players all over the world.
+
+<!-- Images -->
+<p float="left">
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/412220/ss_5470e3e1e4f1605c19b3e3de5b4575370733c30a.600x338.jpg?t=1709638881" width="32.9%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/412220/ss_e77106f68d2aafc0a9b2359eb86169c4943529dd.600x338.jpg?t=1709638881" width="32.9%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/412220/ss_46eb52618297e1d995172f1488a34ef75ed32129.600x338.jpg?t=1709638881" width="32.9%" />
+</p>
 
 
 ## Death and Taxes
@@ -447,6 +454,14 @@ Marvellous Inc. is a programming puzzle game, where you program robots to solve 
 [Game on Steam](https://store.steampowered.com/app/607260/McOsu/) | [Source Code](https://github.com/McKay42/McOsu)
 
 A free open-source circle-clicking rhythm game practice client for osu! beatmaps with Virtual Reality support. McOsu is developed separately from and has no direct affiliation with osu! or ppy Pty Ltd.
+
+
+<!-- Images -->
+<p float="left">
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/607260/ss_60f008234c8c53b878652ffd58c1448e9c1c9591.600x338.jpg?t=1672831169" width="32.9%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/607260/ss_9c843e13564779a157d3ee8de68b8047520d0715.1920x1080.jpg?t=1672831169" width="32.9%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/607260/ss_6890f44549dab26ad64825e9a8acaa697f13aba8.600x338.jpg?t=1672831169" width="32.9%" />
+</p>
 
 
 ## MegaGlest
