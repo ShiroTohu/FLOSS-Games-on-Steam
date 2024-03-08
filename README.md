@@ -18,9 +18,9 @@ From the creators of Amnesia: The Dark Descent and Dear Esther comes a new first
 
 <!-- Images -->
 <p float="left">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_4680d0ae0a21c9796c8c5ad7b5d90010acac8f15.600x338.jpg?t=1685698932" width="32.9%" />
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_36b4da3130d099bb9eb5b6853590d8d2dbe4f956.600x338.jpg?t=1685698932" width="32.9%" /> 
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_cb37cfa929725eabc24f5b1d606932a829203b5a.600x338.jpg?t=1685698932" width="32.9%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_4680d0ae0a21c9796c8c5ad7b5d90010acac8f15.600x338.jpg?t=1685698932" width="32%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_36b4da3130d099bb9eb5b6853590d8d2dbe4f956.600x338.jpg?t=1685698932" width="32%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_cb37cfa929725eabc24f5b1d606932a829203b5a.600x338.jpg?t=1685698932" width="32%" />
 </p>
 
 
@@ -37,9 +37,9 @@ Amnesia: The Dark Descent, a first person survival horror. A game about immersio
 
 <!-- Images -->
 <p float="left">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/57300/ss_b27b47bb43ebd1ab3b26e3d74cf2db088e928a6d.600x338.jpg?t=1685699016" width="32.9%" />
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/57300/ss_4efbef5937d9e1c74434f7a447dba6bc682e32cc.600x338.jpg?t=1685699016" width="32.9%" /> 
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/57300/ss_f05aa49adbc3fbd7f96ab079b4649259a4fb443e.600x338.jpg?t=1685699016" width="32.9%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/57300/ss_b27b47bb43ebd1ab3b26e3d74cf2db088e928a6d.600x338.jpg?t=1685699016" width="32%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/57300/ss_4efbef5937d9e1c74434f7a447dba6bc682e32cc.600x338.jpg?t=1685699016" width="32%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/57300/ss_f05aa49adbc3fbd7f96ab079b4649259a4fb443e.600x338.jpg?t=1685699016" width="32%" />
 </p>
 
 
@@ -91,9 +91,9 @@ Bitburner is a programming-based incremental game. Write scripts in JavaScript t
 
 <!-- Images -->
 <p float="left">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_8595dede43d745341ee3821c3a58d6ef3bcb9797.600x338.jpg?t=1675874284" width="32.9%" />
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_4099845aff88c008271a099f55eacd868dad0461.600x338.jpg?t=1675874284" width="32.9%" /> 
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_8595dede43d745341ee3821c3a58d6ef3bcb9797.600x338.jpg?t=1675874284" width="32.9%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_8595dede43d745341ee3821c3a58d6ef3bcb9797.600x338.jpg?t=1675874284" width="32%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_4099845aff88c008271a099f55eacd868dad0461.600x338.jpg?t=1675874284" width="32%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_8595dede43d745341ee3821c3a58d6ef3bcb9797.600x338.jpg?t=1675874284" width="32%" />
 </p>
 
 
@@ -198,9 +198,9 @@ DDraceNetwork is a cooperative racing mod of Teeworlds. What started as a simple
 
 <!-- Images -->
 <p float="left">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/412220/ss_5470e3e1e4f1605c19b3e3de5b4575370733c30a.600x338.jpg?t=1709638881" width="32.9%" />
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/412220/ss_e77106f68d2aafc0a9b2359eb86169c4943529dd.600x338.jpg?t=1709638881" width="32.9%" /> 
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/412220/ss_46eb52618297e1d995172f1488a34ef75ed32129.600x338.jpg?t=1709638881" width="32.9%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/412220/ss_5470e3e1e4f1605c19b3e3de5b4575370733c30a.600x338.jpg?t=1709638881" width="32%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/412220/ss_e77106f68d2aafc0a9b2359eb86169c4943529dd.600x338.jpg?t=1709638881" width="32%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/412220/ss_46eb52618297e1d995172f1488a34ef75ed32129.600x338.jpg?t=1709638881" width="32%" />
 </p>
 
 
@@ -458,9 +458,9 @@ A free open-source circle-clicking rhythm game practice client for osu! beatmaps
 
 <!-- Images -->
 <p float="left">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/607260/ss_60f008234c8c53b878652ffd58c1448e9c1c9591.600x338.jpg?t=1672831169" width="32.9%" />
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/607260/ss_9c843e13564779a157d3ee8de68b8047520d0715.1920x1080.jpg?t=1672831169" width="32.9%" /> 
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/607260/ss_6890f44549dab26ad64825e9a8acaa697f13aba8.600x338.jpg?t=1672831169" width="32.9%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/607260/ss_60f008234c8c53b878652ffd58c1448e9c1c9591.600x338.jpg?t=1672831169" width="32%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/607260/ss_9c843e13564779a157d3ee8de68b8047520d0715.1920x1080.jpg?t=1672831169" width="32%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/607260/ss_6890f44549dab26ad64825e9a8acaa697f13aba8.600x338.jpg?t=1672831169" width="32%" />
 </p>
 
 
@@ -488,9 +488,9 @@ An open-ended tower-defense game with a focus on resource management.
 
 <!-- Images -->
 <p float="left">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_6dec4c801cd7ddca04a04ad97a0e85e4c315f9a2.600x338.jpg?t=1707161363" width="32.9%" />
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_4394351c612e1114b2b3d945e2b2d80d00bb2dcb.600x338.jpg?t=1707161363" width="32.9%" /> 
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_5746f12da344754ae860d24e800cdb7536d01ce4.600x338.jpg?t=1707161363" width="32.9%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_6dec4c801cd7ddca04a04ad97a0e85e4c315f9a2.600x338.jpg?t=1707161363" width="32%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_4394351c612e1114b2b3d945e2b2d80d00bb2dcb.600x338.jpg?t=1707161363" width="32%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_5746f12da344754ae860d24e800cdb7536d01ce4.600x338.jpg?t=1707161363" width="32%" />
 </p>
 
 
@@ -597,9 +597,9 @@ Quaver is a community-driven and open-source competitive rhythm game with two ga
 
 <!-- Images -->
 <p float="left">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/980610/ss_b334e108a08c326f41eb0ceef29be0f2170c6236.600x338.jpg?t=1661002225" width="32.9%" />
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/980610/ss_c94fe4e39b8de1763de5231c07249833a0928526.600x338.jpg?t=1661002225" width="32.9%" /> 
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/980610/ss_2db721b0cd16d646217878bb0a1c3071632fabdd.600x338.jpg?t=1661002225" width="32.9%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/980610/ss_b334e108a08c326f41eb0ceef29be0f2170c6236.600x338.jpg?t=1661002225" width="32%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/980610/ss_c94fe4e39b8de1763de5231c07249833a0928526.600x338.jpg?t=1661002225" width="32%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/980610/ss_2db721b0cd16d646217878bb0a1c3071632fabdd.600x338.jpg?t=1661002225" width="32%" />
 </p>
 
 ## Red Eclipse 2
