@@ -18,9 +18,9 @@ From the creators of Amnesia: The Dark Descent and Dear Esther comes a new first
 
 <!-- Images -->
 <p float="left">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_4680d0ae0a21c9796c8c5ad7b5d90010acac8f15.600x338.jpg?t=1685698932" width="33%" />
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_36b4da3130d099bb9eb5b6853590d8d2dbe4f956.600x338.jpg?t=1685698932" width="33%" /> 
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_cb37cfa929725eabc24f5b1d606932a829203b5a.600x338.jpg?t=1685698932" width="33%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_4680d0ae0a21c9796c8c5ad7b5d90010acac8f15.600x338.jpg?t=1685698932" width="32.9%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_36b4da3130d099bb9eb5b6853590d8d2dbe4f956.600x338.jpg?t=1685698932" width="32.9%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_cb37cfa929725eabc24f5b1d606932a829203b5a.600x338.jpg?t=1685698932" width="32.9%" />
 </p>
 
 
