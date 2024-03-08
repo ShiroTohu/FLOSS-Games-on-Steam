@@ -1,12 +1,3 @@
-<style>
-    .image-container img {
-        display: inline-block;
-        width: 200px; /* Adjust width as needed */
-        height: auto; /* Maintain aspect ratio */
-        margin: 0 10px; /* Add space between images */
-    }
-</style>
-
 # Free/Libre Open-source Games - Steam
 
 Here is a list of free/libre and open source games that are available on [Steam](https://store.steampowered.com/). Enjoy! Improve the list if you know another one!
@@ -26,11 +17,12 @@ Most of the time, the games here are totally FLOSS, where every assets, resource
 From the creators of Amnesia: The Dark Descent and Dear Esther comes a new first-person horror game that will drag you to the depths of greed, power and madness. It will bury its snout into your ribs and it will eat your heart.
 
 <!-- Images -->
-<div class="image-container">
-    <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_4680d0ae0a21c9796c8c5ad7b5d90010acac8f15.600x338.jpg?t=1685698932">
-    <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_36b4da3130d099bb9eb5b6853590d8d2dbe4f956.600x338.jpg?t=1685698932">
-    <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_cb37cfa929725eabc24f5b1d606932a829203b5a.600x338.jpg?t=1685698932">
-</div>
+<p float="left">
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_4680d0ae0a21c9796c8c5ad7b5d90010acac8f15.600x338.jpg?t=1685698932" width="32%" />
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_36b4da3130d099bb9eb5b6853590d8d2dbe4f956.600x338.jpg?t=1685698932" width="32%" /> 
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/239200/ss_cb37cfa929725eabc24f5b1d606932a829203b5a.600x338.jpg?t=1685698932" width="32%" />
+</p>
+
 
 
 ## Amnesia: The Dark Descent
