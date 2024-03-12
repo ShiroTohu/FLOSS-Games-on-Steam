@@ -74,7 +74,7 @@ Barony is the premier first-person roguelike with cooperative play. Cryptic item
 
 <!-- Images -->
 <p float="left">
-  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/371970/ss_9a2f7cf38056cc47771bd0af9bba80806d2f2dde.600x338.jpg?t=1697853303" width="32%" />
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/371970/ss_e7af10d7351e227b25587547e8f24370cd77891d.600x338.jpg?t=1697853303" width="32%" />
   <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/371970/ss_9a2f7cf38056cc47771bd0af9bba80806d2f2dde.600x338.jpg?t=1697853303" width="32%" /> 
   <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/371970/ss_172545b1d8b168ade88305545d4f2b90308ee770.600x338.jpg?t=1697853303" width="32%" />
 </p>
