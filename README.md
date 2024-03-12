@@ -128,7 +128,6 @@ Bitburner is a programming-based incremental game. Write scripts in JavaScript t
 
 What if Breakout was the only arcade game people could make? An open-source game, written entirely on a live stream. 
 
-
 <!-- Images -->
 <p float="left">
   <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1145020/ss_8b16247961089e84033218edd4acbf68acce7fea.600x338.jpg?t=1615299897" width="32%" />
@@ -148,7 +147,6 @@ What if Breakout was the only arcade game people could make? An open-source game
 
 Steal everything you can and flee from the Burning Knight's castle in this action-packed roguelike! The game features tight bullet hell, tons of items, characters to meet... and secrets!
 
-
 <!-- Images -->
 <p float="left">
   <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/851150/ss_8db0cca8e6f5301a03bc5d9c42717d198503eb75.600x338.jpg?t=1612269175" width="32%" />
@@ -166,7 +164,6 @@ Steal everything you can and flee from the Burning Knight's castle in this actio
 [Game on Steam](https://store.steampowered.com/app/760330/BYTEPATH/) | [Source Code](https://github.com/a327ex/BYTEPATH)
 
 BYTEPATH is a replayable arcade shooter with a focus on build theorycrafting. Use a massive skill tree, many classes and ships to create your own builds and defeat an ever increasing amount of enemies.
-
 
 <!-- Images -->
 <p float="left">
