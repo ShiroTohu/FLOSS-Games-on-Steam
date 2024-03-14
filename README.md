@@ -221,6 +221,13 @@ Cendric combines 2D RPG and Platformer elements in one indie game, featuring bot
 
 A challenging puzzle-platformer where each jump is a puzzle.
 
+<!-- Images -->
+<p float="left">
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1334300/ss_0b36addb67120c1397f754207f106450d1df8560.600x338.jpg?t=1624745112" width="32%" />
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1334300/ss_ac6ffff79f45e0279e3be5e75e3f5263963280a7.600x338.jpg?t=1624745112" width="32%" /> 
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1334300/ss_e2da919babc75634825b41d5c0fd8920bcfd8e6c.600x338.jpg?t=1624745112" width="32%" />
+</p>
+
 
 ## Cortex
 <!-- Supported Operating Systems -->
