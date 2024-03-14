@@ -202,6 +202,13 @@ The epitome of a modern traditional roguelike: with turn-based play and a RPG-li
 
 Cendric combines 2D RPG and Platformer elements in one indie game, featuring both a sidescroller and top-down view. The player explore a world by completing levels and quests, following the story of a boy with no memory and discovering the magical but dangerous world of Admantris. 
 
+<!-- Images -->
+<p float="left">
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/681460/ss_bc866cb2ba0a93ad4533511252f07f2cb5710868.600x338.jpg?t=1529945630" width="32%" />
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/681460/ss_9f1de20b8f56102ce636e40f058f4a843e25b7af.600x338.jpg?t=1529945630" width="32%" /> 
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/681460/ss_405ae827fdd2e415213bab6fc787c7d9f76d4a1a.600x338.jpg?t=1529945630" width="32%" />
+</p>
+
 
 ## Charge Kid
 <!-- Supported Operating Systems -->
