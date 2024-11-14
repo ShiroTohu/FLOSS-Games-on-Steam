@@ -21,7 +21,7 @@ class Steam:
 
         response = requests.get(self.link)
         soup = BeautifulSoup(response.content, "html.parser")
-        stats = soup.find('div', {'id': 'highlight_strip'})
+        stats = soup.find_all('div', {'class': 'screenshot_holder'})
 
         print(stats)
 
@@ -48,13 +48,15 @@ class SoftwareContainer:
         self.tag = dpg.generate_uuid() # generates a unique tag.
         self.steam_tag = dpg.generate_uuid()
         self.github_tag = dpg.generate_uuid()
+        self.payload_tag = dpg.generate_uuid()
 
         self.steam_tags.append(self.steam_tag)
         self.github_tags.append(self.github_tag)
 
     def create(self):
+        # with dpg.drag_payload(parent=self.parent, drag_data=[self.get_steam_value(), self.get_github_value()], payload_type="list"):
         with dpg.group(parent=self.parent, tag=self.tag):
-            dpg.add_input_text(label="Steam URL", tag=self.steam_tag)
+            dpg.add_input_text(label="Steam URL", tag=self.steam_tag, callback=lambda: dpg.set_value(self.payload_tag, dpg.get_value(self.steam_tag)))
             dpg.add_input_text(label="Repository URL", tag=self.github_tag)
 
             with dpg.group(horizontal=True):
@@ -64,6 +66,13 @@ class SoftwareContainer:
 
             dpg.add_separator()
 
+            with dpg.drag_payload(drag_data=self.get_steam_value(), payload_type="list"):
+                dpg.add_text(self.get_steam_value(), tag=self.payload_tag)
+
+    def set_values(self, s, a) -> None :
+        dpg.set_value(self.steam_tag, a[0])
+        dpg.set_value(self.github_tag, a[1])
+
     def remove(self):
         if len(self.instances) > 1:
             self.instances.remove(self)
@@ -72,21 +81,18 @@ class SoftwareContainer:
             dpg.delete_item(self.tag)
 
     def get_steam_value(self):
-        value = dpg.get_value(self.steam_tag)
-        print(value)
+        return dpg.get_value(self.steam_tag)
 
     def get_github_value(self):
-        dpg.get_value(self.github_tag)
+        return dpg.get_value(self.github_tag)
     
     @classmethod
     def get_steam_values(cls):
-        print(cls.steam_tags)
-        values = dpg.get_values(cls.steam_tags)
-        print(values)
+        return dpg.get_values(cls.steam_tags)
 
     @classmethod
     def get_github_values(cls):
-        dpg.get_values(cls.github_tags)
+        return dpg.get_values(cls.github_tags)
 
 
 def print_me(sender):
