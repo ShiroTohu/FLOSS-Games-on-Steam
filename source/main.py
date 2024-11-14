@@ -5,10 +5,10 @@ from bs4 import BeautifulSoup
 
 dpg.create_context()
 
-tags = {
-    "windows": r"![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)",
-    "mac": r"![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)",
-    "steam": r"![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)"
+badges = {
+    "Windows": r"![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)",
+    "mac OS": r"![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)",
+    "SteamOS + Linux": r"![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)"
 }
 
 
