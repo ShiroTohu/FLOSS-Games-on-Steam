@@ -5,6 +5,16 @@ Here is a list of free/libre and open source games that are available on [Steam]
 Most of the time, the games here are totally FLOSS, where every assets, resource files, source code, etc are free and open-source. Some games here need an original resource file to be played (or they are included in the Steam release but not in the floss source code), even if they are on Steam. It means, some games listed here are open source game engine where you have to own a copy of the game to play it because the resources needed to play sometimes aren't open source. This list doesn't include games where the source code is open, but not free/libre.
 
 
+## Alien Swarm: Reactive Drop
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/) | [Source Code](https://github.com/ReactiveDrop/reactivedrop_public_src) | [Website](https://reactivedrop.com/)
+
+Co-operative top-down shooter game available for free. An epic bug hunt featuring a unique blend of co-op play and squad-level tactics.
+
+
 ## Amnesia: A Machine for Pigs
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
@@ -927,6 +937,29 @@ The Castle Doctrine is a massively-multiplayer game of burglary and home defense
 Explore thirteen different castles, overcoming a variety of puzzles and traps while you attempt to escape.
 
 
+## The Colorful Creature
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/1651680/The_Colorful_Creature/) | [Source Code](https://github.com/Infiland/TheColorfulCreature) | [Donate](https://ko-fi.com/infiland)
+
+The Colorful Creature is difficult platformer with puzzle color mechanics. Play over 300 levels with diverse gameplay that have many items and hazards, in-game level editor, local multiplayer, endless run, customizable skins & hats, steam workshop and more!
+
+
+## The Powder Toy
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/1148350/The_Powder_Toy/) | [Source Code](https://github.com/The-Powder-Toy/The-Powder-Toy) | [GNU General Public License v3.0](https://github.com/The-Powder-Toy/The-Powder-Toy/blob/master/LICENSE) | [Website](https://powdertoy.co.uk/) | [Forums](https://powdertoy.co.uk/Discussions/Categories/Index.html) | [Tutorials & Help](https://powdertoy.co.uk/Wiki/W/Main_Page.html) | [Items made by other players](https://powdertoy.co.uk/Browse.html)
+
+The Powder Toy is a classic physics sandbox game, which simulates air pressure and velocity, heat, gravity and a countless number of interactions between different substances
+
+
 ## The Secret of Tremendous Corporation
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
@@ -959,6 +992,19 @@ Explore the world of Thirty Flights of Loving through a first-person short story
 [Game on Steam](https://store.steampowered.com/app/1779200/Thrive/) | [Source Code](https://github.com/Revolutionary-Games/Thrive) | [Tutorials & Help](https://thrive.fandom.com/wiki/Thrive_Wiki) | [Website](https://revolutionarygamesstudio.com/) | [News](https://revolutionarygamesstudio.com/devblog/) | [Forums](https://community.revolutionarygamesstudio.com/) | [Donate](https://revolutionarygamesstudio.com/donate/)
 
 An evolution simulation game. Take control of your species in the environment and edit your species as a whole. Compete with other evolving species for resources on an alien planet.
+
+
+## tModLoader
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Mod on Steam](https://store.steampowered.com/app/1281930/tModLoader/) | [Source Code](https://github.com/tModLoader/tModLoader) | [Website](www.tmodloader.net/) | [Donate](https://www.patreon.com/tmodloader)
+
+Dig, Fight, and Build your way through the world of player-created mods on Terraria with tModLoader - this DLC makes modding Terraria a reality!\
+_Note: In order to use this mod, you need to own [Terraria](https://store.steampowered.com/app/105600/Terraria/) on the Steam. Terraria is not FLOSS, but proprietary software._
 
 
 ## Tomantenquark
@@ -1045,18 +1091,12 @@ Wyrmsun is a real-time strategy game which features elements of mythology, histo
 
 Zero-K is an expansive Real Time Strategy game. Fight epic battles over land, air and sea on 100s of maps. Manipulate the terrain and throw units around. Explore an abandoned galaxy, solo or co-op, in 70 campaign missions. Hop online for a tense 1v1 or massive battles with up to 32 players. 
 
-<!-- # Softwares
-Steam is also serving softwares, and some of them are FLOSS, you can find them below.
-* ## Krita
-[Software on Steam](https://store.steampowered.com/app/280680/Krita/) | [Source Code]() | [Website](https://krita.org)
-Krita is a powerful digital painting application, made for illustrators, game artists, concept artists, animators, comic book artists and everyone who wants to draw and paint. -->
-
 
 ### To-Do
 * Addons supported/extendable?
+* Add FLOSS software available on Steam
+* Add more FLOSS mods (only 1 listed for now)
 * ~~Platforms supported?~~
-* Cost?
-* Add license (and specificaitons for assets, most of the time they aren't floss)?
-* Link to Direct Download?
+* Add license (and specifications for assets, most of the time they aren't floss)?
 
-I found a lot of references thanks to [this curator](https://store.steampowered.com/curator/9035867-Open-Source-Community/), but I found some others somewhere on the internet, I can't remember where... Thanks to contributors that added Games via Issues or Pull Requests.
+I found a lot of references thanks to [this curator](https://store.steampowered.com/curator/9035867-Open-Source-Community/) and [this one as well](https://store.steampowered.com/curator/38475471-Libre-Open-Source-Games/), but I found some others somewhere on the internet, I can't remember where... Thanks to all the contributors who added Games, Mods and Software via Issues or Pull Requests.
